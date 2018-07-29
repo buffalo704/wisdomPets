@@ -1,0 +1,2 @@
+# wisdomPets
+Python Django project
